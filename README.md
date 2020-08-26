@@ -27,11 +27,11 @@ Following the structure of the associated "Neural Networks and Deep Learning" ch
 
 To begin, click the link below to launch your experiments in Google Colab, a cloud based platform giving you access to GPUs and TPUs to speed up your training.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15KAgReMRRL3W6wWZzyiN5IISyHT4WYn5)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CAMMA-public/ai4surgery/blob/master/ai4surgery.ipynb)
 
 ## License
 This source code, dataset, and annotations are licensed under the license found in the [`LICENSE`](LICENSE) file in the root directory of this source tree.
-The modified Cholec80 dataset used in this repository is publicly released under the Creative Commons licence CC-BY-NC-SA 4.0. This implies that:
+The Cholec-tinytools dataset used in this repository is publicly released under the Creative Commons licence CC-BY-NC-SA 4.0. This implies that:
 - the dataset cannot be used for commercial purposes,
 - the dataset can be transformed (additional annotations, etc.),
 - the dataset can be redistributed as long as it is redistributed under the same license with the obligation to cite the contributing work which led to the generation of the Cholec80 dataset (mentioned below).
@@ -51,7 +51,7 @@ By downloading and using this dataset, you agree on these terms and conditions.
   ISBN-13      = {978-1260452730}
 }
 ```
-If you use the Cholec80 dataset or the variant used in the demo notebook, you are kindly requested to cite the work that led to the generation of this dataset:
+If you use the Cholec-tinytools dataset used in the demo notebook, you are kindly requested to cite the work that led to the generation of this dataset:
 ```bibtex
 @article{twinanda2016endonet,
   title={Endonet: a deep architecture for recognition tasks on laparoscopic videos},
@@ -64,5 +64,16 @@ If you use the Cholec80 dataset or the variant used in the demo notebook, you ar
   publisher={IEEE}
 }
 ```
+```bibtex
+@incollection{vardazaryan2018weakly,
+  title={Weakly-supervised learning for tool localization in laparoscopic videos},
+  author={Vardazaryan, Armine and Mutter, Didier and Marescaux, Jacques and Padoy, Nicolas},
+  booktitle={Intravascular Imaging and Computer Assisted Stenting and Large-Scale Annotation of Biomedical Data and Expert Label Synthesis},
+  pages={169--179},
+  year={2018},
+  publisher={Springer}
+}
+```
+
 [[`Download PDF`](https://arxiv.org/abs/1602.03012)]
 
