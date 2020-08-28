@@ -64,16 +64,18 @@ If you use the Cholec-tinytools dataset used in the demo notebook, you are kindl
   publisher={IEEE}
 }
 ```
+[[`Download PDF`](https://arxiv.org/pdf/1602.03012.pdf)]
+
 ```bibtex
 @incollection{vardazaryan2018weakly,
   title={Weakly-supervised learning for tool localization in laparoscopic videos},
   author={Vardazaryan, Armine and Mutter, Didier and Marescaux, Jacques and Padoy, Nicolas},
-  booktitle={Intravascular Imaging and Computer Assisted Stenting and Large-Scale Annotation of Biomedical Data and Expert Label Synthesis},
+  booktitle={MICCAI LABELS},
   pages={169--179},
   year={2018},
   publisher={Springer}
 }
 ```
 
-[[`Download PDF`](https://arxiv.org/abs/1602.03012)]
+[[`Download PDF`](https://arxiv.org/pdf/1806.05573.pdf)]
 
