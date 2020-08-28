@@ -31,10 +31,10 @@ To begin, click the link below to launch your experiments in Google Colab, a clo
 
 ## License
 This source code, dataset, and annotations are licensed under the license found in the [`LICENSE`](LICENSE) file in the root directory of this source tree.
-The Cholec-tinytools dataset used in this repository is publicly released under the Creative Commons licence CC-BY-NC-SA 4.0. This implies that:
+The Cholec-tinytools dataset used in this repository is publicly released under the Creative Commons licence [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). This implies that:
 - the dataset cannot be used for commercial purposes,
 - the dataset can be transformed (additional annotations, etc.),
-- the dataset can be redistributed as long as it is redistributed under the same license with the obligation to cite the contributing work which led to the generation of the Cholec80 dataset (mentioned below).
+- the dataset can be redistributed as long as it is redistributed under the same license with the obligation to cite the contributing work which led to the generation of the Cholec-tinytools dataset (mentioned below).
 
 By downloading and using this dataset, you agree on these terms and conditions.
 
