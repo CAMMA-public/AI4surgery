@@ -17,9 +17,7 @@ Following the structure of the associated "Neural Networks and Deep Learning" ch
 <br/><br/>
 
 <div align="center">
-<a href="http://camma.u-strasbg.fr/">
-<img src="figs/neural_network.gif" width="60%">
-</a>
+<img src="figs/neural_network.gif" width="90%">
 </div>
 
 <br/><br/>
