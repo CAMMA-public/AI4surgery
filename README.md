@@ -12,7 +12,7 @@ _Deepak Alapatt and Pietro Mascagni, Vinkle Srivastav, Nicolas Padoy_
 
 This short tutorial is designed to offer hands-on experience with artificial neural networks to surgeons with little to no coding experience.  
 
-Following the structure of the associated "Neural Networks and Deep Learning" chapter from the "Artificial Intelligence in Surgery: An AI Primer for Surgical Practice" book, this notebook walks the users through a basic neural network implementation pipeline, from basic programming concepts to data handling and deep learning operations.      Finally, the user will be able to design, train and test a simple neural network for surgical tool classification.
+Following the structure of the associated "Neural Networks and Deep Learning" chapter from the "Artificial Intelligence in Surgery: An AI Primer for Surgical Practice" book, this notebook walks the users through a basic neural network implementation pipeline, from basic programming concepts in the python programming language to data handling and deep learning operations.      Finally, the user will be able to design, train and test a simple neural network for surgical tool classification.
 
 <br/><br/>
 
