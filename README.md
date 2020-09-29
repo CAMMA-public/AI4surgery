@@ -49,6 +49,8 @@ By downloading and using this dataset, you agree to these terms and conditions.
   ISBN-13      = {978-1260452730}
 }
 ```
+[[`Download PDF`](https://arxiv.org/pdf/2009.13411.pdf)]
+
 If you use the Cholec-tinytools dataset used in the demo notebook, you are kindly requested to cite the work that led to the generation of this dataset:
 ```bibtex
 @article{twinanda2016endonet,
