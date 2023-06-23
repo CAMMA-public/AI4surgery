@@ -25,13 +25,15 @@ Following the structure of the associated "Neural Networks and Deep Learning" ch
 
 To begin, click the link below to launch your experiments in Google Colab, a cloud based platform giving you access to GPUs and TPUs to speed up your training.
 
+
+### Hands-on using Pytorch
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CAMMA-public/ai4surgery/blob/master/ai4surgery_pt.ipynb)
+
+
 ### Hands-on using tensorflow
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CAMMA-public/ai4surgery/blob/master/ai4surgery_tf.ipynb)
-
-## Hands-on using Pytorch
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CAMMA-public/ai4surgery/blob/master/ai4surgery_pt.ipynb)
 
 
 ## License
