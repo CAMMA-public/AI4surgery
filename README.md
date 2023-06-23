@@ -25,7 +25,7 @@ Following the structure of the associated "Neural Networks and Deep Learning" ch
 
 To begin, click the link below to launch your experiments in Google Colab, a cloud based platform giving you access to GPUs and TPUs to speed up your training.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CAMMA-public/ai4surgery/blob/master/ai4surgery.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CAMMA-public/ai4surgery/blob/master/ai4surgery_tf.ipynb)
 
 ## License
 This source code, dataset, and annotations are licensed under the license found in the [`LICENSE`](LICENSE) file in the root directory of this source tree.
