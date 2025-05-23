@@ -8,7 +8,7 @@
 
 **Neural Networks and Deep Learning**
 
-_Deepak Alapatt and Pietro Mascagni, Vinkle Srivastav, Nicolas Padoy_
+_Deepak Alapatt and Pietro Mascagni, [Vinkle Srivastav](https://vinkle.github.io/), Nicolas Padoy_
 
 This short tutorial is designed to offer hands-on experience with artificial neural networks to surgeons with little to no coding experience.  
 
